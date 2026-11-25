@@ -1,0 +1,13 @@
+	Problem	Marks*
+01	Display all product names and prices.	5
+02	Display each product's stock availability.	5
+03	Find all Electronics products.	10
+04	Calculate total inventory value (price × stock).	10
+05	Find the most expensive product.	10
+06	Calculate discounted prices following the rules below.	10
+
+Discount rules:
+- Price ≥ 2,000 BDT: 15%
+- Price ≥ 1,000 BDT but below 2,000 BDT: 10%
+- Price below 1,000 BDT: 5%
+Bonus: Find the most expensive product currently in stock.
